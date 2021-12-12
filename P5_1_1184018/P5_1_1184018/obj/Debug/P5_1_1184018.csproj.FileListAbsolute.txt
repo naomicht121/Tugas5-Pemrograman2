@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\obj\Debug\P5_1_1184018.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\bin\Debug\P5_1_1184018.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\bin\Debug\P5_1_1184018.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\obj\Debug\P5_1_1184018.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\obj\Debug\P5_1_1184018.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\obj\Debug\P5_1_1184018.VerticalLabel.resources
+c:\users\asus\documents\visual studio 2015\Projects\P5_1_1184018\P5_1_1184018\obj\Debug\P5_1_1184018.csproj.GenerateResource.Cache
